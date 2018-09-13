@@ -10,7 +10,7 @@ echo "Paste the Link of The Folder to Download:"
 read URL
 
 #switches to pre-determined directory for Download
-cd ~/Downloads/FLAC
+cd ~/Downloads/
 
 #Executes wget command
 wgg
@@ -19,7 +19,7 @@ wgg
 rm -rf index.html*
 
 #Thanks the user based on their system username
-echo "$USER, thank you for choosing wget-dir."
+echo "$USER, the folder is done downloading
 
 #returns user to previous directory
 cd -
