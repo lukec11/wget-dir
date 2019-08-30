@@ -1,2 +1,2 @@
 # wget-dir
-A simple script that allows me to download a directory through wget
+A simple script that allows downloading a full directory through wge. Basically does nothing.
